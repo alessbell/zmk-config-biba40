@@ -43,4 +43,9 @@ Enter the bootloader in 3 ways:
 * Raise + 5,3 (for the right board)
 * Short out pins RST and GND on the nice!nano v2
 
+## Keymap
+
+* Keymaps can be edited and built using github actions
+* Biba40 is also compatible with ZMK Studio https://zmk.studio/
+
 [View the BIBA40 V2 Build Guide](Build_Guide.md)
