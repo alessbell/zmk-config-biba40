@@ -47,5 +47,6 @@ Enter the bootloader in 3 ways:
 
 * Keymaps can be edited and built using github actions
 * Biba40 is also compatible with ZMK Studio https://zmk.studio/
+* You can also use the excellent Keymap Editor by Nick Coutsos to generate a new firmware to flash to the keyboard https://nickcoutsos.github.io/keymap-editor/
 
 [View the BIBA40 V2 Build Guide](Build_Guide.md)
